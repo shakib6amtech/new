@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b517404-4357-449d-9d0b-b41b4706b346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/auto_backup.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hhhh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_backup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/auto_backup.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757917539526</updated>
-      <workItem from="1757917540704" duration="2266000" />
+      <workItem from="1757917540704" duration="2608000" />
     </task>
     <servers />
   </component>
