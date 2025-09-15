@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b517404-4357-449d-9d0b-b41b4706b346" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_backup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/auto_backup.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.conf" beforeDir="false" afterPath="$PROJECT_DIR$/config.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757917539526</updated>
-      <workItem from="1757917540704" duration="2926000" />
+      <workItem from="1757917540704" duration="3622000" />
     </task>
     <servers />
   </component>
